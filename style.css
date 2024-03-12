@@ -1,0 +1,153 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    position: static;
+    position: center;
+    box-sizing: content-box;
+
+
+}
+
+a {
+    color: rgb(186, 172, 51);
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    color: bisque;
+    font-family: Poppins, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+    
+   
+}
+
+
+li{
+
+    text-align:center
+    
+}
+
+
+h2  {
+    color:rgb(210, 190, 102);
+    
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 1px;
+    text-decoration-line: overline;
+    
+}
+
+h1  {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: bisque;
+    border: 2px solid bisque;
+    border-radius: 20px;;
+}
+
+header {
+    background-color: rgb(44, 44, 44);
+
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+  }
+
+#inicio{
+
+    padding: 60px;
+    background-image: url("img/DSC_0807.JPG");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+
+
+}
+
+
+
+#sobremi {
+
+    
+    padding: 60px;
+    background-color: rgb(44, 44, 44);
+   
+}
+
+#sobremi p {
+
+    color: bisque
+}
+
+#clases {
+    padding: 60px;
+   
+   
+ 
+}
+
+#clases p {
+    color:rgb(44, 44, 44);
+}
+
+#redes {
+    padding: 60px;
+    background-image: url("https://wallpapercosmos.com/w/full/e/2/9/1172649-3840x2160-desktop-4k-guitar-wallpaper-photo.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 87% ;
+    height: 500px;
+    width: 100%;
+   
+}
+
+#redesss {
+
+    font-size: larger;
+}
+
+
+#galeria {
+    padding: 60px;
+    background-color: rgb(44, 44, 44);
+    
+  
+}
+
+#galeria img {
+
+    border: rgb(44, 44, 44); solid 3px;
+    border-radius: 30px;
+    
+}
+
+#galeria img:hover {
+
+   color: bisque;
+   opacity: 30%;
+    
+}
+
+#band {
+
+    font-size: larger;
+}
